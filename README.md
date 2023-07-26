@@ -28,5 +28,5 @@
 
 
 
-![Snake animation](https://github.com/IanVictorAndrade/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IanVictorAndrade/IanVictorAndrade/dist/github-contribution-grid-snake.svg)
 
