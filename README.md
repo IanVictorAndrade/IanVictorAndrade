@@ -9,8 +9,8 @@
           
 <div align="center" >
   <a href="https://github.com/IanVictorAndrade/IanVictorAndrade">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IanVictorAndrade&show_icons=true&theme=radical"/>
-  <img  height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVictorAndrade&layout=compact&theme=radical" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=IanVictorAndrade&show_icons=true&theme=radical"/>
+  <img  height="140em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IanVictorAndrade&layout=compact&theme=radical" />
 </div>
 
 <div style="display: inline_block"><br>
