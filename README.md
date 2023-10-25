@@ -16,6 +16,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Ian-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Ian-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="Ian-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="right" alt="Ian-Gato" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 </div>
 
