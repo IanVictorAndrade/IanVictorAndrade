@@ -1,7 +1,7 @@
 ### Eae! Sou Ian Victor.
 
 - 👾 Trabalho e gosto muito de back-end
-- 😼 Estudando springboot 3, kotlin, java, html/css, javascript
+- 😼 Estudando springboot 3, kotlin, java, docker, html/css e javascript
 - 🤷🏼‍♂️ Buscando a vaga de Dev Júnior
 - 🤦🏽‍♂️ Inglês intermediário com objetivo a fluência
 
