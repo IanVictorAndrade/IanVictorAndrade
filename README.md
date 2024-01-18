@@ -25,6 +25,7 @@
   <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ian-PostgreSQL" height="30" width="40" src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="center" alt="Ian-Figma" height="30" width="40" src="https://camo.githubusercontent.com/a37232e5d1c5536ee1d8b7f6529c466ec40fe414d01ff456467219e3372dbffb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6669676d612f6669676d612d6f726967696e616c2e737667">
+<img align="center" alt="Ian-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="right" alt="Ian-Gato" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 </div>
 
