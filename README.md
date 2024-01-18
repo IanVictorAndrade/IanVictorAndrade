@@ -20,9 +20,10 @@
   <img align="center" alt="Ian-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Ian-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
+  <img align="center" alt="Ian-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
   <img align="center" alt="Ian-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">        
+  <img align="center" alt="Ian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ian-PostgreSQL" height="30" width="40" src="https://camo.githubusercontent.com/2facb89b414f4beb89250ff00956b210e030d79c1c78489e555fc2921e158b8a/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f706f737467726573716c2f706f737467726573716c2d6f726967696e616c2e737667">
   <img align="right" alt="Ian-Gato" height="200" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 </div>
 
