@@ -1,4 +1,4 @@
-### Eae! Sou Ian Victor.
+### Olá! Sou Ian Victor.
 
 - 👾 Trabalho e gosto muito de back-end
 - 😼 Estudando springboot 3, kotlin, java, docker, next, react, tailwind css e typescript
