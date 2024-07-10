@@ -2,7 +2,7 @@
 
 - 👾 Trabalho e gosto muito de back-end
 - 😼 Estudando springboot 3, kotlin, java, docker, next, react, tailwind css e typescript
-- 🤷🏼‍♂️ Buscando a vaga de Dev Júnior
+- 🤷🏼‍♂️ Dev Júnior Asp.Net
 - 🤦🏽‍♂️ Inglês intermediário com objetivo a fluência
 
 ##
