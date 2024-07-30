@@ -1,4 +1,4 @@
-### Olá! Sou Ian Victor.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Eae!+Eu+sou+Ian+Victor)](https://git.io/typing-svg)
 
 - 👾 Trabalho e gosto muito de back-end
 - 😼 Estudando springboot 3, kotlin, java, docker, next, react, tailwind css e typescript
