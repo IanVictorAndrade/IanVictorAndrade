@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Eae!+Eu+sou+Ian+Victor)](https://git.io/typing-svg)
 
 - 👾 Trabalho e gosto muito de back-end
-- 😼 Estudando springboot 3, kotlin, java, docker, next, react, tailwind css e typescript
-- 🤷🏼‍♂️ Dev Júnior Asp.Net
-- 🤦🏽‍♂️ Inglês intermediário com objetivo a fluência
+- 😼 Estudando springboot 3, kotlin, java, docker, next, react, tailwind css, typescript e Ruby
+- 🤷🏼‍♂️ Desenvolvedor Web Júnior - SEFIN
+- 🤦🏽‍♂️ Inglês intermediário-avançado com objetivo a fluência
 
 ##
 
